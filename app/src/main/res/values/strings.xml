@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency</string>
+
+    <string name="btn_get_usd_rate">Get currency rate</string>
+    <string name="lbl_currency_rate">Rate: </string>
+
+    <string name="loading_message">Loading...</string>
+    <string name="error_message">Gratz You broke it!</string>
+
+    <string name="action_settings">Actions menu</string>
+    <string-array name="cmb_currency_array">
+        <item>LTL</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+</resources>
